@@ -1,0 +1,1 @@
+export const label = "flex gap-4" 

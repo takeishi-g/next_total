@@ -1,0 +1,1 @@
+export const border = "border rounded-sm border-gray-700"
